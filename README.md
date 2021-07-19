@@ -39,7 +39,7 @@ Changing embarked with the most common value and using the mean for NAN values i
 
 2.Support Vector Machines
 
-3. Decision Tree Classifier 
+3.Decision Tree Classifier 
 
 4.Random Forest
 
