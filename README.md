@@ -1,7 +1,7 @@
 ## Titanic_Final_solution
 
 
-Different variables present in the datasets:
+## Different variables present in the datasets:
 
 
 ## Numerical Features: 
@@ -43,7 +43,7 @@ For preprocessing we deal with the missing values by dropping the unwanted field
 
 
 ## Model Evaluation
-As we evaluate models based on their accuracy levels on the given dataset. It seems that 'Random Forest' and 'Decision Tree' both are giving the same accuracy. So here we can use both of them in this prediction.
+As we evaluate models based on their accuracy levels on the given dataset. 'Random Forest' and 'Decision Tree' both are giving the same accuracy. So, we can use both of them in this prediction.
 
 ## Result
 Accuracy of these models comes out to be 86.31 .
