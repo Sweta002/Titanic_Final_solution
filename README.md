@@ -51,3 +51,6 @@ As we evaluate models based on their accuracy levels on the given dataset. 'Rand
 
 ## Result
 Accuracy of these models comes out to be 86.31 .
+
+
+## Codacy B
