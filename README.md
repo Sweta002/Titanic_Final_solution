@@ -27,7 +27,11 @@ We analyse and visualise the data to see the changes in Survival rates along wit
 
 ## Pre Processing
 
-For preprocessing we deal with the missing values by dropping the unwanted fields and changing the categorical data of sex as male 0 or 1(Hot encoding technique), embarked with the most common value and using the mean for NAN values in age, to reduce the anamolies.
+For preprocessing ,
+we deal with the missing values by dropping the unwanted fields
+changing the categorical data of sex as male 0 or 1(Hot encoding technique),
+Changing embarked with the most common value and using the mean for NAN values in age inorder to reduce the anamolies.
+
 
 ## We apply 5 different algorithms namely:
 
